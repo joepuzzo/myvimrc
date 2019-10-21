@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/n0280500/.vscode/extensions/dsznajder.es7-react-js-snippets-1.8.6'
+let g:netrw_dirhist_2='/Users/n0280500/.vscode/extensions'
+let g:netrw_dirhist_3='/Users/n0280500/Documents/Dev/ReactTools/informed/.vscode'
+let g:netrw_dirhist_4='/Users/n0280500/Documents/Dev/Tempus/lmb-absence-ui/node_modules/@lmig'
+let g:netrw_dirhist_5='/Users/n0280500/foo.js'
+let g:netrw_dirhist_6='/Users/n0280500/Documents/Dev/Bullshit/mlp-customer-ui/test'
